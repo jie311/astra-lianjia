@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*temp/*
+# Python
+*.py[cod]
+*.pyc
+__pycache__/
+*.so
+.Python
+del/*

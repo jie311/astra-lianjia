@@ -1,0 +1,113 @@
+{"domain": "电子商务（B2C/C2C/B2B 平台）", "knowledge_corpus": ""}
+{"domain": "跨境电商（国际在线交易）", "knowledge_corpus": ""}
+{"domain": "在线支付（电子钱包、移动支付）", "knowledge_corpus": ""}
+{"domain": "数字金融服务（智能投顾、数字信贷）", "knowledge_corpus": ""}
+{"domain": "在线预订（酒店、机票、门票）", "knowledge_corpus": ""}
+{"domain": "网约车服务（平台调度、支付）", "knowledge_corpus": ""}
+{"domain": "外卖配送（订单处理、骑手调度）", "knowledge_corpus": ""}
+{"domain": "即时零售（30 分钟送达服务）", "knowledge_corpus": ""}
+{"domain": "社区团购（线上拼团、线下配送）", "knowledge_corpus": ""}
+{"domain": "共享经济平台（共享单车、共享汽车）", "knowledge_corpus": ""}
+{"domain": "搜索引擎（信息检索、广告投放）", "knowledge_corpus": ""}
+{"domain": "社交媒体（内容分发、社交关系管理）", "knowledge_corpus": ""}
+{"domain": "内容创作平台（自媒体、短视频、直播）", "knowledge_corpus": ""}
+{"domain": "在线音乐 / 视频（流媒体服务）", "knowledge_corpus": ""}
+{"domain": "网络文学 / 电子书（数字阅读）", "knowledge_corpus": ""}
+{"domain": "知识付费（在线课程、问答）", "knowledge_corpus": ""}
+{"domain": "在线媒体（数字报刊、新闻聚合）", "knowledge_corpus": ""}
+{"domain": "数字出版（电子图书、数字期刊）", "knowledge_corpus": ""}
+{"domain": "数字营销（精准广告投放、用户分析）", "knowledge_corpus": ""}
+{"domain": "内容审核（AI 辅助过滤不良信息）", "knowledge_corpus": ""}
+{"domain": "K12 在线教育（直播课、题库、作业批改）", "knowledge_corpus": ""}
+{"domain": "职业培训（技能课程、在线认证）", "knowledge_corpus": ""}
+{"domain": "语言学习（AI 口语练习、智能测评）", "knowledge_corpus": ""}
+{"domain": "高等教育在线（MOOC、远程学位）", "knowledge_corpus": ""}
+{"domain": "企业培训（内训系统、知识管理）", "knowledge_corpus": ""}
+{"domain": "在线考试（智能组卷、自动批改）", "knowledge_corpus": ""}
+{"domain": "教育资源平台（课件共享、题库）", "knowledge_corpus": ""}
+{"domain": "教育管理系统（学籍、课程管理）", "knowledge_corpus": ""}
+{"domain": "在线问诊（远程医疗咨询）", "knowledge_corpus": ""}
+{"domain": "互联网医院（线上挂号、复诊）", "knowledge_corpus": ""}
+{"domain": "电子病历（数字化健康档案）", "knowledge_corpus": ""}
+{"domain": "智能医疗诊断（AI 辅助疾病识别）", "knowledge_corpus": ""}
+{"domain": "在线购药（医药电商平台）", "knowledge_corpus": ""}
+{"domain": "健康管理（智能监测、个性化建议）", "knowledge_corpus": ""}
+{"domain": "疫苗预约（在线接种登记）", "knowledge_corpus": ""}
+{"domain": "医学检验报告查询（在线结果解读）", "knowledge_corpus": ""}
+{"domain": "心理健康咨询（线上疏导）", "knowledge_corpus": ""}
+{"domain": "医美预约平台（服务预订、案例展示）", "knowledge_corpus": ""}
+{"domain": "智能银行（手机银行、AI 客服）", "knowledge_corpus": ""}
+{"domain": "证券交易平台（在线开户、智能投顾）", "knowledge_corpus": ""}
+{"domain": "保险科技（智能核保、理赔自动化）", "knowledge_corpus": ""}
+{"domain": "区块链金融（跨境支付、资产数字化）", "knowledge_corpus": ""}
+{"domain": "供应链金融（线上融资、信用评估）", "knowledge_corpus": ""}
+{"domain": "消费金融（线上贷款审批、风控）", "knowledge_corpus": ""}
+{"domain": "数字货币服务（钱包管理、交易平台）", "knowledge_corpus": ""}
+{"domain": "财务软件服务（记账、报税自动化）", "knowledge_corpus": ""}
+{"domain": "金融风控系统（实时风险预警）", "knowledge_corpus": ""}
+{"domain": "企业 SaaS 服务（ERP、CRM、HRM 等）", "knowledge_corpus": ""}
+{"domain": "协同办公（在线文档、项目管理）", "knowledge_corpus": ""}
+{"domain": "云服务（IaaS/PaaS/SaaS）", "knowledge_corpus": ""}
+{"domain": "数据管理平台（大数据分析、BI）", "knowledge_corpus": ""}
+{"domain": "软件开发服务（低代码 / 无代码平台）", "knowledge_corpus": ""}
+{"domain": "IT 运维管理（自动化监控、故障预警）", "knowledge_corpus": ""}
+{"domain": "网络安全服务（威胁检测、身份认证）", "knowledge_corpus": ""}
+{"domain": "客户服务系统（智能客服、工单管理）", "knowledge_corpus": ""}
+{"domain": "人力资源管理系统（招聘、绩效、培训）", "knowledge_corpus": ""}
+{"domain": "营销自动化（客户旅程管理、邮件营销）", "knowledge_corpus": ""}
+{"domain": "家政服务平台（预约、服务评价）", "knowledge_corpus": ""}
+{"domain": "美容美发预约（线上订位、会员管理）", "knowledge_corpus": ""}
+{"domain": "宠物服务（线上寄养、美容预约）", "knowledge_corpus": ""}
+{"domain": "搬家服务（在线估价、车辆调度）", "knowledge_corpus": ""}
+{"domain": "家电维修（在线报修、工程师匹配）", "knowledge_corpus": ""}
+{"domain": "管道疏通 / 开锁（紧急服务在线预约）", "knowledge_corpus": ""}
+{"domain": "社区服务平台（物业报修、邻里交流）", "knowledge_corpus": ""}
+{"domain": "房屋租赁 / 买卖（线上看房、合同签署）", "knowledge_corpus": ""}
+{"domain": "装修服务平台（设计方案、施工监管）", "knowledge_corpus": ""}
+{"domain": "汽车服务（保养预约、故障诊断）", "knowledge_corpus": ""}
+{"domain": "在线旅游平台（OTA、行程规划）", "knowledge_corpus": ""}
+{"domain": "景区预约（门票预订、客流管理）", "knowledge_corpus": ""}
+{"domain": "旅游攻略分享（用户生成内容平台）", "knowledge_corpus": ""}
+{"domain": "酒店预订系统（在线订房、会员积分）", "knowledge_corpus": ""}
+{"domain": "民宿短租平台（房源展示、在线沟通）", "knowledge_corpus": ""}
+{"domain": "目的地体验预订（特色活动、导游服务）", "knowledge_corpus": ""}
+{"domain": "智能导游（AR 实景导航、语音讲解）", "knowledge_corpus": ""}
+{"domain": "签证服务（在线申请、进度查询）", "knowledge_corpus": ""}
+{"domain": "电子政务（在线审批、证件办理）", "knowledge_corpus": ""}
+{"domain": "社保公积金在线服务（查询、缴纳）", "knowledge_corpus": ""}
+{"domain": "税务服务（在线申报、智能算税）", "knowledge_corpus": ""}
+{"domain": "在线公证（远程证明、文件认证）", "knowledge_corpus": ""}
+{"domain": "法律援助平台（在线咨询、案件管理）", "knowledge_corpus": ""}
+{"domain": "户籍 / 出入境服务（在线申请、预约）", "knowledge_corpus": ""}
+{"domain": "违章处理（在线缴费、学习销分）", "knowledge_corpus": ""}
+{"domain": "不动产登记（在线申请、进度查询）", "knowledge_corpus": ""}
+{"domain": "社区治理平台（民意调查、问题反馈）", "knowledge_corpus": ""}
+{"domain": "云计算服务（弹性计算、存储、网络）", "knowledge_corpus": ""}
+{"domain": "大数据服务（采集、分析、可视化）", "knowledge_corpus": ""}
+{"domain": "人工智能服务（算法模型、自然语言处理）", "knowledge_corpus": ""}
+{"domain": "物联网平台（设备连接、数据采集）", "knowledge_corpus": ""}
+{"domain": "区块链技术服务（分布式账本、智能合约）", "knowledge_corpus": ""}
+{"domain": "AR/VR 服务（虚拟 / 增强现实应用）", "knowledge_corpus": ""}
+{"domain": "边缘计算（靠近数据源的实时处理）", "knowledge_corpus": ""}
+{"domain": "软件开发工具（IDE、版本控制、测试）", "knowledge_corpus": ""}
+{"domain": "API 服务（数据接口、功能调用）", "knowledge_corpus": ""}
+{"domain": "互联网中度渗透领域（部分自动化）", "knowledge_corpus": ""}
+{"domain": "智能工厂（柔性生产、质量控制）", "knowledge_corpus": ""}
+{"domain": "预测性维护（设备故障预警）", "knowledge_corpus": ""}
+{"domain": "供应链协同（供应商管理、物流跟踪）", "knowledge_corpus": ""}
+{"domain": "智能质检（机器视觉检测）", "knowledge_corpus": ""}
+{"domain": "生产数据管理（实时监控、报表生成）", "knowledge_corpus": ""}
+{"domain": "能源管理系统（能耗监控、优化）", "knowledge_corpus": ""}
+{"domain": "智能电网（电力调配、故障定位）", "knowledge_corpus": ""}
+{"domain": "虚拟电厂（分布式能源管理）", "knowledge_corpus": ""}
+{"domain": "水务管理系统（远程抄表、漏损检测）", "knowledge_corpus": ""}
+{"domain": "燃气供应管理（智能抄表、安全监控）", "knowledge_corpus": ""}
+{"domain": "环保监测（污染源在线监控）", "knowledge_corpus": ""}
+{"domain": "城市照明管理（智能调光、故障预警）", "knowledge_corpus": ""}
+{"domain": "药物研发平台（AI 辅助化合物筛选）", "knowledge_corpus": ""}
+{"domain": "临床试验管理（受试者招募、数据监测）", "knowledge_corpus": ""}
+{"domain": "医学影像分析（AI 辅助诊断）", "knowledge_corpus": ""}
+{"domain": "医疗设备管理（远程监控、维护预警）", "knowledge_corpus": ""}
+{"domain": "智能测评系统（个性化学习路径推荐）", "knowledge_corpus": ""}
+{"domain": "在线实验室（远程实验操作、数据记录）", "knowledge_corpus": ""}
+{"domain": "教育资源智能推荐（个性化学习内容）", "knowledge_corpus": ""}

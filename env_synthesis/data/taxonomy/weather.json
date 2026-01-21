@@ -1,0 +1,12 @@
+{
+    "weather": {
+        "weather": {
+            "description": "Query weather information",
+            "examples": [
+                {
+                    "query": "What's the weather in Beijing today?"
+                }
+            ]
+        }
+    }
+}
