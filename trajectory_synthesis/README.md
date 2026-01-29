@@ -73,20 +73,8 @@ mcp_servers.jsonl
 
 **Execution**:
 ```bash
-bash scripts/1_run_graph_pipeline.sh \
-    --input_file <INPUT_FILE> \
-    --model_name <MODEL_NAME> \
-    --min_length <MIN_LENGTH> \
-    --max_length <MAX_LENGTH> \
-    --operators <OPERATORS>
-
-# Example:
-bash scripts/1_run_graph_pipeline.sh \
-    --input_file data/mcp_servers.jsonl \
-    --model_name qwen-plus \
-    --min_length 2 \
-    --max_length 5 \
-    --operators "vote,backtranslate"
+# Please modify the internal parameters according to your own needs.
+bash scripts/1_run_graph_pipeline.sh
 ```
 
 **Main Parameters**:
@@ -111,18 +99,8 @@ bash scripts/1_run_graph_pipeline.sh \
 
 **Execution**:
 ```bash
-bash scripts/2_run_task_construction_pipeline.sh \
-    --input_file <INPUT_FILE> \
-    --aug_mode <AUG_MODE> \
-    --n_sample <N_SAMPLE> \
-    --persona_dataset_path <PERSONA_DATASET_PATH>
-
-# Example:
-bash scripts/2_run_task_construction_pipeline.sh \
-    --input_file output/graph_pipeline/chains.jsonl \
-    --aug_mode all \
-    --n_sample 5 \
-    --persona_dataset_path data/personas.jsonl
+# Please modify the internal parameters according to your own needs.
+bash scripts/2_run_task_construction_pipeline.sh 
 ```
 
 **Main Parameters**:
@@ -141,20 +119,8 @@ bash scripts/2_run_task_construction_pipeline.sh \
 
 **Execution**:
 ```bash
-bash scripts/3_run_interaction_pipeline.sh \
-    --input_file <INPUT_FILE> \
-    --output_file <OUTPUT_FILE> \
-    --model_name <MODEL_NAME> \
-    --max_workers <MAX_WORKERS> \
-    --timeout <TIMEOUT>
-
-# Example:
-bash scripts/3_run_interaction_pipeline.sh \
-    --input_file data/tasks.jsonl \
-    --output_file output/trajectories.jsonl \
-    --model_name qwen-plus \
-    --max_workers 10 \
-    --timeout 300
+# Please modify the internal parameters according to your own needs.
+bash scripts/3_run_interaction_pipeline.sh 
 ```
 
 **Main Parameters**:
@@ -174,16 +140,8 @@ bash scripts/3_run_interaction_pipeline.sh \
 
 **Execution**:
 ```bash
-bash scripts/4_run_reward.sh \
-    --input_file <INPUT_FILE> \
-    --output_dir <OUTPUT_DIR> \
-    --max_concurrent <MAX_CONCURRENT>
-
-# Example:
-bash scripts/4_run_reward.sh \
-    --input_file data/trajectories.jsonl \
-    --output_dir output/reward_results \
-    --max_concurrent 20
+# Please modify the internal parameters according to your own needs.
+bash scripts/4_run_reward.sh
 ```
 
 **Main Parameters**:
