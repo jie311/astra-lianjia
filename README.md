@@ -22,7 +22,7 @@
 
 | Date | Updates |
 |------|---------|
-| 2026/01/30 | 📄 Paper Release |
+| 2026/01/30 | 📄 [Paper Release](https://arxiv.org/pdf/2601.21558) |
 | 2026/01/22 | 🎉 Release Code, Models, and Datasets |
 
 ---
