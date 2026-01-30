@@ -109,9 +109,13 @@ This project is licensed under [Apache 2.0 License](assets/LICENSE.txt).
 ## 📎 Citation
 
 ```bibtex
-@misc{astra2026,
-  title={ASTRA：Automated Synthesis of agentic Trajectories and Reinforcement Arenas},
-  author={Beike Language and Intelligence (BLI)},
-  year={2026},
+@misc{tian2026astraautomatedsynthesisagentic,
+      title={ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas}, 
+      author={Xiaoyu Tian and Haotian Wang and Shuaiting Chen and Hao Zhou and Kaichi Yu and Yudian Zhang and Jade Ouyang and Junxi Yin and Jiong Chen and Baoyan Guo and Lei Zhang and Junjie Tao and Yuansheng Song and Ming Cui and Chengwei Liu},
+      year={2026},
+      eprint={2601.21558},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.21558}, 
 }
 ```
