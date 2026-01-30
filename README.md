@@ -13,11 +13,19 @@
 [![Blog](https://img.shields.io/badge/Blog-Project%20Page-orange?logo=github)](https://lianjiatech.github.io/astra.blog/)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow)](https://huggingface.co/collections/Emperorizzis/astra-dataset)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow)](https://huggingface.co/collections/Emperorizzis/astra-models)
-[![Paper](https://img.shields.io/badge/📄%20Paper-Coming%20Soon-lightgrey)]()
+[![Paper](https://img.shields.io/badge/📄%20Arxiv-Paper-blue)](https://arxiv.org/pdf/2601.21558)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](assets/LICENSE.txt)
 
 </div>
 
+## 🆕 Updates
+
+| Date | Updates |
+|------|---------|
+| 2026/01/30 | 📄 Paper Release |
+| 2026/01/22 | 🎉 Release Code, Models, and Datasets |
+
+---
 
 ## 📖 Overview
 This repository provides an end-to-end pipeline for **fully automated**, **verifiable** synthesis of high-quality data and environments, with native support for **process-level rewards**. It is designed for training models with multi-step reasoning and tool-use capabilities and easy to **scale** to new tasks and tools. Here are the two main modules:
@@ -89,15 +97,6 @@ QA data → Question decomposition → Tool necessity check → Verification →
 ```
 
 👉 **For detailed usage instructions, please refer to [`env_synthesis/README.md`](env_synthesis/README.md)**
-
----
-
-## 🆕 Updates
-
-| Date | Updates |
-|------|---------|
-| 2026/01 | 🎉 Release Code, Models, and Datasets |
-| Coming Soon | 📄 Paper |
 
 ---
 

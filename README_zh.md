@@ -13,11 +13,19 @@
 [![Blog](https://img.shields.io/badge/Blog-Project%20Page-orange?logo=github)](https://lianjiatech.github.io/astra.blog/)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Datasets-yellow)](https://huggingface.co/collections/Emperorizzis/astra-dataset)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow)](https://huggingface.co/collections/Emperorizzis/astra-models)
-[![Paper](https://img.shields.io/badge/📄%20Paper-Coming%20Soon-lightgrey)]()
+[![Paper](https://img.shields.io/badge/📄%20Arxiv-Paper-blue)](https://arxiv.org/pdf/2601.21558)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](assets/LICENSE.txt)
 
 </div>
 
+## 🆕 更新日志
+
+| 日期 | 更新内容 |
+|------|----------|
+| 2026/01/30 | 📄 论文发布 |
+| 2026/01/22 | 🎉 发布代码、模型和数据集 |
+
+---
 
 ## 📖 简介
 
@@ -90,15 +98,6 @@ QA数据 → 问题分解 → 工具必要性检查 → 验证 → 环境合成 
 ```
 
 👉 **详细使用说明请参考 [`env_synthesis/README_zh.md`](env_synthesis/README_zh.md)**
-
----
-
-## 🆕 更新日志
-
-| 日期 | 更新内容 |
-|------|----------|
-| 2026/01 | 🎉 发布代码、模型和数据集 |
-| 敬请期待 | 📄 论文 |
 
 ---
 
